@@ -1,0 +1,24 @@
+{
+  "artists": [
+    {
+      "name": "KanyeWest",
+      "image": "Artists/Images/KanyeWest/download.jpg",
+      "albums": [
+        {
+          "title": "Cuck (Album) 2025",
+          "folder": "Artists/Music/KanyeWest/2025/Cuck(Album)/MP3"
+        }
+      ]
+    },
+    {
+      "name": "trefuego",
+      "image": "Artists/Images/trefuego/cover.jpg",
+      "albums": [
+        {
+          "title": "90mh (Single)",
+          "folder": "Artists/Music/trefuego/2019/NON/MP3"
+        }
+      ]
+    }
+  ]
+}
